@@ -1,0 +1,9 @@
+az sshkey create --location "westus" --resource-group "kml_rg_main-27889a62c2eb409d"  --name "xfusion-kp"  --encryption-type "RSA"
+
+For this task, create an SSH key pair with the following requirements:
+
+The name of the SSH key pair should be xfusion-kp.
+
+The key pair type must be rsa.
+
+
